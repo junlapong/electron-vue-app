@@ -4,7 +4,7 @@
 
 An electron-vue project
 
-#### Build Setup
+## Build Setup
 
 ``` bash
 # install dependencies
@@ -22,6 +22,11 @@ yarn test
 # lint all JS/Vue component files in `src/`
 yarn run lint
 ```
+
+## References
+
+- [electron-vue](https://simulatedgreg.gitbooks.io/electron-vue/en/)
+- [Electron Tutorial: Building Modern Desktop Apps with Vue.js](https://morioh.com/p/c02b791ab769)
 
 ---
 
